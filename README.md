@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a FullStack Developer based out of Toronto, Canada.
+I'm currently working on recreating a few well known apps, such as: Facebook and Whatsapp
+Currently, I'm learning Angular!
+
+Feel free to reach out at: freda_hon@gmail.com
+
 <!--
 **nohaderf/nohaderf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
