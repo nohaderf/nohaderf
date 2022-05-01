@@ -2,7 +2,7 @@
 
 - I'm a FullStack Developer based out of Toronto, Canada.
 - I'm currently working on recreating a few well known apps, such as: Facebook and ~~Whatsapp~~ (just launched my whatsapp clone!)
-- Currently, I'm learning Angular!
+- Currently, I'm learning Java and Docker!
 
 ##### Feel free to reach out at: freda.hon@gmail.com
 
